@@ -41,7 +41,7 @@ El sistema sigue una estructura profesional de carpetas para garantizar que sea 
 
 ## 📸 6. Evidencias del Proyecto
 ### Situación Actual (Problema)
-![Problematica; organizacion en papel](./)
+![Problematica; organizacion en papel](./recursos/WhatsApp Image 2026-04-30 at 6.37.39 PM.jpeg)
 
 ### Interfaz del Sistema (Solución)
 *(Aquí puedes insertar capturas de pantalla de tu Dashboard o de los Modales de registro que implementaste)*
