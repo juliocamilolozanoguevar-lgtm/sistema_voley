@@ -41,11 +41,9 @@ El sistema sigue una estructura profesional de carpetas para garantizar que sea 
 
 ## 📸 6. Evidencias del Proyecto
 ### Situación Actual (Problema)
-*(Aquí puedes insertar una foto de los cuadernos de registro que mencionas)*
+![Problematica; organizacion en papel](./)
 
 ### Interfaz del Sistema (Solución)
 *(Aquí puedes insertar capturas de pantalla de tu Dashboard o de los Modales de registro que implementaste)*
 
----
-**Desarrollado por:** Julio Lozano  
-**Curso:** Desarrollo de Software - SENATI
+
